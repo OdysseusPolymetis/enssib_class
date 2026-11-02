@@ -1,0 +1,25 @@
+ordre,lieu,nom_texte,lieu_actuel,pays_actuel,lat,lon,mode_arrivee,note
+1,Londres,Londres,London,Royaume-Uni,51.5074,-0.1278,départ,Départ du Reform Club le 2 octobre 1872
+2,Paris,Paris,Paris,France,48.8566,2.3522,train,
+3,Turin,Turin,Torino,Italie,45.0703,7.6869,train,Passage du Mont-Cenis
+4,Brindisi,Brindisi,Brindisi,Italie,40.6327,17.9418,train,Embarquement sur le Mongolia
+5,Suez,Suez,Suez,Égypte,29.9668,32.5498,paquebot,Rencontre de Fix et Passepartout
+6,Aden,Aden,Aden,Yémen,12.7855,45.0187,paquebot,
+7,Bombay,Bombay,Mumbai,Inde,18.9388,72.8354,paquebot,
+8,Allahabad,Allahabad,Prayagraj,Inde,25.4358,81.8463,train et éléphant,Sauvetage d'Aouda
+9,Bénarès,Bénarès,Varanasi,Inde,25.3176,82.9739,train,
+10,Calcutta,Calcutta,Kolkata,Inde,22.5726,88.3639,train,
+11,Singapour,Singapore,Singapore,Singapour,1.2903,103.8519,paquebot,Escale du Rangoon
+12,Hong Kong,Hong-Kong,Hong Kong,Chine,22.2793,114.1628,paquebot,Passepartout embarque seul sur le Carnatic
+13,Shanghai,Shangaï,Shanghai,Chine,31.2304,121.4737,bateau-pilote,Traversée sur la Tankadère
+14,Yokohama,Yokohama,Yokohama,Japon,35.4437,139.638,paquebot,
+15,San Francisco,San Francisco,San Francisco,États-Unis,37.7749,-122.4194,paquebot,Traversée du Pacifique sur le General Grant
+16,Ogden (Grand Lac Salé),Ogden,Ogden,États-Unis,41.223,-111.9738,train,Épisode mormon
+17,Fort Kearney,Kearney,Kearney,États-Unis,40.6436,-99.0026,train,Attaque des Sioux
+18,Omaha,Omaha,Omaha,États-Unis,41.2565,-95.9345,traîneau à voile,
+19,Chicago,Chicago,Chicago,États-Unis,41.8781,-87.6298,train,
+20,New York,New-York,New York,États-Unis,40.7128,-74.006,train,
+21,Queenstown,Queenstown,Cobh,Irlande,51.8503,-8.2943,vapeur,Le Henrietta brûle ses propres boiseries
+22,Dublin,Dublin,Dublin,Irlande,53.3498,-6.2603,train,
+23,Liverpool,Liverpool,Liverpool,Royaume-Uni,53.4084,-2.9916,bateau,Arrestation de Fogg
+24,Londres,Londres,London,Royaume-Uni,51.5074,-0.1278,train,Retour le 21 décembre 1872
